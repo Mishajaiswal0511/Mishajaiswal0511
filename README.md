@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Misha kumari
+#👋 Hi, I’m Misha kumari
   
 
-- 🌱 I’m a computer science Engineering undergraduate with a  passion for developing innovative software solutions.
+# 🌱 I’m a computer science Engineering undergraduate with a  passion for developing innovative software solutions.
 - 
 - 
   
