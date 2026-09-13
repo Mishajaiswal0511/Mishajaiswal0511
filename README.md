@@ -1,12 +1,5 @@
-#👋 Hi, I’m Misha kumari
-  
+🎓 Computer Science Engineering undergraduate | 🤖 AI/ML & GenAI Enthusiast
 
-# 🌱 I’m a computer science Engineering undergraduate with a  passion for developing innovative software solutions.
-- 
-- 
-  
+💻 Building practical applications with Python, NLP, LLMs, React & FastAPI.
 
-<!---
-Mishajaiswal0511/Mishajaiswal0511 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Learning continuously, building projects, and exploring the world of AI.
