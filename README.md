@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Misha Kumari
 
-### `AI/ML Student • GenAI & NLP Enthusiast • Problem Solver`
+### `AI/ML Student • GenAI & NLP • Full-Stack Developer`
 
-🎓 Computer Science Engineering undergraduate passionate about **Artificial Intelligence, Machine Learning, Generative AI, and Natural Language Processing**.
+🎓 Computer Science & Engineering undergraduate passionate about **Artificial Intelligence, Machine Learning, Generative AI, and Natural Language Processing**.
 
-💡 I enjoy turning ideas into practical applications by combining **AI models, backend systems, and modern web technologies**.
+💡 I enjoy building practical applications that combine **AI models, backend systems, and modern web technologies**.
 
-🚀 Currently exploring **LLMs, RAG, NLP, Computer Vision, and AI Engineering** while continuously improving my problem-solving and development skills.
+🚀 Currently exploring **LLMs, RAG, NLP, Computer Vision, and AI Engineering** while strengthening my problem-solving and development skills.
 
 ---
 
-## 🧠 01 // WHO I AM
+# 🧠 01 // WHO I AM
 
 ```text
 NAME:
@@ -19,14 +19,14 @@ NAME:
 DISCIPLINE:
 └─ Computer Science & Engineering
 
-FOCUS:
+PRIMARY FOCUS:
 ├─ Artificial Intelligence & Machine Learning
 ├─ Generative AI & LLMs
 ├─ Natural Language Processing
 ├─ Computer Vision
 └─ Full-Stack AI Applications
 
-LANGUAGES:
+PROGRAMMING:
 ├─ Python
 ├─ C++
 ├─ Java
@@ -34,55 +34,59 @@ LANGUAGES:
 ├─ JavaScript
 └─ SQL
 
-PHILOSOPHY:
-└─ Learn → Build → Test → Improve
+APPROACH:
+└─ Learn → Understand → Build → Test → Improve
 ```
 
 I believe the best way to learn technology is to **build with it**.
-My projects are an opportunity to understand concepts beyond theory and turn them into working systems.
+
+I focus on understanding the concepts behind the tools I use and applying them to projects that solve practical problems.
+
+> **Understand the concept. Build the system. Learn from the result.**
 
 ---
 
 # 🚀 02 // CURRENTLY BUILDING
 
-### ✍️ ToneShift — Audience-Aware AI Rewriter
+## ✍️ ToneShift
 
-An AI-powered application that rewrites text according to the desired audience and tone.
+### `Audience-Aware AI Rewriter`
 
-**What I'm exploring:**
+ToneShift is an AI-powered application that rewrites text according to the selected **tone and audience**, while also evaluating how closely the rewritten content preserves the original meaning.
+
+```text
+USER INPUT
+    ↓
+TONE SELECTION
+    ↓
+REACT FRONTEND
+    ↓
+FASTAPI BACKEND
+    ↓
+GEMINI LLM
+    ↓
+TONE-AWARE REWRITE
+    ↓
+BACK-TRANSLATION
+    ↓
+SEMANTIC EVALUATION
+    ↓
+FINAL RESULT
+```
+
+### What I worked with
 
 * 🤖 LLM-powered text transformation
-* 🧠 NLP pipelines
+* 🧠 NLP pipeline design
 * 🔄 Back-translation
 * 📊 Semantic similarity evaluation
 * 🔍 Word-level difference highlighting
 * ⚡ FastAPI backend
 * ⚛️ React + Vite frontend
-* 🌐 AI application deployment
+* 🎨 Tailwind CSS
+* 🌐 Deployment and API integration
 
-**Pipeline**
-
-```text
-User Input
-    ↓
-Tone Selection
-    ↓
-React Frontend
-    ↓
-FastAPI Backend
-    ↓
-Gemini LLM
-    ↓
-Tone-Aware Rewrite
-    ↓
-Back Translation
-    ↓
-Semantic Evaluation
-    ↓
-Final Result
-```
-
-🔗 [View Repository](https://github.com/Mishajaiswal0511/tone-shift-ai-rewriter)
+🔗 **[View ToneShift Repository](https://github.com/Mishajaiswal0511/tone-shift-ai-rewriter)**
 
 ---
 
@@ -92,9 +96,9 @@ Final Result
 
 **Audience-Aware AI Rewriter**
 
-An NLP application designed to transform text into different tones while evaluating the semantic consistency of the generated output.
+An NLP application for rewriting text into different tones while evaluating semantic consistency between the original and generated content.
 
-`Python` `FastAPI` `React` `Vite` `Tailwind CSS` `Gemini API` `NLP`
+`Python` `FastAPI` `React` `Vite` `Tailwind CSS` `Gemini API`
 
 ---
 
@@ -102,19 +106,19 @@ An NLP application designed to transform text into different tones while evaluat
 
 **AI-Based Roommate Compatibility System**
 
-A project exploring how machine learning can be used to analyze user preferences and compatibility factors for smarter roommate recommendations.
+A machine-learning based project exploring compatibility between students using relevant preferences and characteristics to support smarter roommate recommendations.
 
 `Python` `Machine Learning` `Data Analysis`
 
 ---
 
-## 🌍 Tourism & Travel AI
+## 🌍 Tourism AI
 
-**AI-powered tourism exploration platform**
+**AI-Powered Tourism Exploration**
 
-Exploring how AI and data-driven systems can help users discover tourism opportunities, understand destinations, and make more informed travel decisions.
+A tourism-focused project exploring how data and AI can help users discover destinations and make more informed travel decisions.
 
-`AI/ML` `Python` `Web Development` `Data`
+`AI/ML` `Python` `Data` `Web Development`
 
 ---
 
@@ -122,7 +126,7 @@ Exploring how AI and data-driven systems can help users discover tourism opportu
 
 **AI-Based Interview Practice**
 
-A project focused on creating an interactive interview-practice experience using AI concepts and modern application development.
+An interactive application designed to help users practice interview scenarios using AI-oriented workflows and modern web technologies.
 
 `AI` `Python` `Web Development`
 
@@ -130,11 +134,13 @@ A project focused on creating an interactive interview-practice experience using
 
 # 🛠️ 04 // TECHNICAL STACK
 
-### 👩‍💻 Programming
+### 👩‍💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,c,js,sql" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,c,js" />
 </p>
+
+`SQL`
 
 ### 🤖 AI / ML
 
@@ -152,13 +158,13 @@ OpenCV
 
 ### 🌐 Development
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,fastapi,flask,html,css,nodejs" />
 </p>
 
-### ⚙️ Tools & Platforms
+### ⚙️ Tools
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,anaconda,vercel" />
 </p>
 
@@ -167,25 +173,25 @@ OpenCV
 # 🧩 05 // AI / ML INTERESTS
 
 ```text
-                ARTIFICIAL INTELLIGENCE
-                         │
-        ┌────────────────┼────────────────┐
-        │                │                │
-       ML               NLP             GenAI
-        │                │                │
-  Classification     Embeddings          LLMs
-  Regression         TF-IDF              RAG
-  Evaluation         Word2Vec            Prompting
-        │                │                │
-        └────────────────┼────────────────┘
-                         │
-                  AI APPLICATIONS
-                         │
-                    Full-Stack
-                    Integration
+                     ARTIFICIAL INTELLIGENCE
+                              │
+             ┌────────────────┼────────────────┐
+             │                │                │
+            ML               NLP             GenAI
+             │                │                │
+      Classification      Embeddings          LLMs
+      Regression           TF-IDF              RAG
+      Evaluation           Word2Vec           Prompting
+      Preprocessing        Text Analysis      AI Apps
+             │                │                │
+             └────────────────┼────────────────┘
+                              │
+                       AI APPLICATIONS
+                              │
+                       Full-Stack Systems
 ```
 
-I'm particularly interested in understanding **how AI models move from concepts and experiments into usable applications**.
+My main interest is in understanding how **AI concepts become usable software systems**—from data and models to APIs, interfaces, and deployment.
 
 ---
 
@@ -200,15 +206,17 @@ I'm particularly interested in understanding **how AI models move from concepts 
 * Embeddings
 * LLM architectures
 * RAG pipelines
+* Prompt engineering
 * AI application development
 
 ### 🧠 Machine Learning
 
-* Model training & evaluation
+* Data preprocessing
 * Feature engineering
 * Classification & regression
-* Data preprocessing
-* Model optimization
+* Model training
+* Model evaluation
+* Optimization
 
 ### 👁️ Computer Vision
 
@@ -217,14 +225,14 @@ I'm particularly interested in understanding **how AI models move from concepts 
 * Pooling
 * Image preprocessing
 * OpenCV
-* Deep learning for image understanding
+* Deep learning fundamentals
 
 ### 💻 Problem Solving
 
 * Data Structures & Algorithms
 * Algorithm analysis
 * Pattern matching
-* Dynamic problem solving
+* Problem-solving techniques
 * Competitive programming fundamentals
 
 ---
@@ -238,27 +246,27 @@ Understand the problem and requirements.
 
 02 // EXPLORE
      ↓
-Research possible approaches and technologies.
+Research possible approaches.
 
 03 // DESIGN
      ↓
-Break the idea into manageable components.
+Break the idea into smaller components.
 
 04 // BUILD
      ↓
-Implement the smallest working version.
+Create a working version.
 
 05 // TEST
      ↓
-Find bugs, edge cases and weaknesses.
+Find bugs, edge cases and limitations.
 
 06 // IMPROVE
      ↓
-Refine the system based on what I learn.
+Refine the implementation.
 
-07 // REPEAT
+07 // UNDERSTAND
      ↓
-Keep building and learning.
+Learn from what worked and what didn't.
 ```
 
 > **I don't just want to make something work — I want to understand why it works.**
@@ -290,9 +298,9 @@ Keep building and learning.
 
 ```text
 NOW
-└─ Strengthening AI/ML fundamentals
-└─ Building GenAI & NLP applications
-└─ Improving DSA and problem-solving
+└─ Strengthen AI/ML fundamentals
+└─ Build GenAI & NLP applications
+└─ Improve DSA and problem solving
 
 NEXT
 └─ Explore more LLM-based applications
@@ -302,7 +310,7 @@ NEXT
 LATER
 └─ Contribute to open source
 └─ Build production-oriented AI systems
-└─ Keep turning ideas into useful software
+└─ Continue exploring AI Engineering
 ```
 
 ---
@@ -316,6 +324,8 @@ Understand the "why".
        ↓
 Build something with it.
        ↓
+Test it.
+       ↓
 Break it.
        ↓
 Debug it.
@@ -325,18 +335,20 @@ Understand it better.
 Build again.
 ```
 
-**Learning by building is my favorite way to learn.**
+### `Learning by building.`
 
 ---
 
 # 🤝 12 // LET'S CONNECT
 
-I'm always interested in **AI/ML, GenAI, NLP, interesting projects, and learning opportunities**.
+I'm interested in **AI/ML, GenAI, NLP, software development, and building meaningful projects**.
 
 <p align="center">
-  <a href="https://github.com/Mishajaiswal0511">
-    <img src="https://img.shields.io/badge/GitHub-Misha%20Kumari-181717?style=for-the-badge&logo=github"/>
-  </a>
+
+<a href="https://github.com/Mishajaiswal0511">
+<img src="https://img.shields.io/badge/GitHub-Misha%20Kumari-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
 ---
@@ -345,8 +357,6 @@ I'm always interested in **AI/ML, GenAI, NLP, interesting projects, and learning
 
 ### `BUILD • LEARN • EXPLORE • REPEAT`
 
-</p>
+<i>Turning ideas into working systems, one project at a time. 🚀</i>
 
-<p align="center">
-  <i>Building ideas into working systems, one project at a time. 🚀</i>
 </p>
