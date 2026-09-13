@@ -289,7 +289,7 @@ Learn from what worked and what didn't.
 # 🐍 09 // CONTRIBUTION GRAPH
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mishajaiswal0511/Mishajaiswal0511/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mishajaiswal0511&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
