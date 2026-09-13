@@ -171,6 +171,17 @@ LATER ──► Exploring distributed systems and advanced architecture patterns
 ```
 
 ---
+<!-- CONTRIBUTION SNAKE VISUALIZATION -->
+<p align="center">
+  <b>CONTRIBUTION ACTIVITY FEED</b>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mishajaiswal0511/Mishajaiswal0511/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mishajaiswal0511/Mishajaiswal0511/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake Feed" src="https://raw.githubusercontent.com/Mishajaiswal0511/Mishajaiswal0511/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
 
 ### 08 // LET'S CONNECT
 
